@@ -221,5 +221,17 @@ http://51.15.199.82:25461/live/euroiptv/euroiptv/598.ts
 http://51.15.199.82:25461/live/euroiptv/euroiptv/599.ts
 #EXTINF:-1,UK: SKy Net 4
 http://51.15.199.82:25461/live/euroiptv/euroiptv/601.ts
-#EXTINF:-1,MIMUSICA HD T-K
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
+#EXTINF:-1,Indosiar now
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch15051810235326945512/index.m3u8
+#EXTINF:-1,Trans TV now
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511552652254306/index.m3u8
+#EXTINF:-1,Inews now
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511541532132975/index.m3u8
+#EXTINF:-1,SCTV now
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch15010918464887721048/index.m3u8
+#EXTINF:-1,MNC TV now
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511111714365733/index.m3u8
+#EXTINF:-1,RCTI now
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511532707866226/index.m3u8
+#EXTINF:-1,GTV now
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511505498448705/index.m3u8
