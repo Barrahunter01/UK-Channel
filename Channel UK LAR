@@ -235,7 +235,7 @@ http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511111714365733/index.m3u8
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511532707866226/index.m3u8
 #EXTINF:-1,GTV now
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511505498448705/index.m3u8
-#EXTINF:-1 RTM TV2
+#EXTINF:-1,RTM TV2
 http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch003.stream_360p/chunklist.m3u8
 #EXTINF:-1,UK: Discovery Turbo
 http://51.15.199.82:25461/live/euroiptv/euroiptv/935.ts
