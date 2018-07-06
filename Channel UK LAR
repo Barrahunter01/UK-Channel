@@ -1,9 +1,223 @@
 #EXTM3U
-#EXTINF: -1 tvg-name="Sky Cinema Comedy HD" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Sky-Cinema-Comedy-HD-DE-Logo-2016.png" group-title="Film i serije", Sky Cinema Comedy HD
-http://vapi.vaders.tv/play/2743.m3u8?token=eyJ1c2VybmFtZSI6ImxvbWJhcmRpbm8iLCJwYXNzd29yZCI6InZpbmNlIn0=
-#EXTINF: -1 tvg-name="Sky Cinema Crime & Thriller HD" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/sky-cinema-triller.jpg" group-title="Film i serije", Sky Cinema Crime & Thriller HD
-http://vapi.vaders.tv/play/2739.m3u8?token=eyJ1c2VybmFtZSI6ImxvbWJhcmRpbm8iLCJwYXNzd29yZCI6InZpbmNlIn0=
-#EXTINF: -1 tvg-name="Sky Cinema Disney HD" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/SkyCinemaDisneyHd.png" group-title="Film i serije", Sky Cinema Disney HD
-http://vapi.vaders.tv/play/2742.m3u8?token=eyJ1c2VybmFtZSI6ImxvbWJhcmRpbm8iLCJwYXNzd29yZCI6InZpbmNlIn0=
-#EXTINF: -1 tvg-name="Sky Cinema Family HD" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/Sky-Cinema-Family-DE-Logo-2016.png" group-title="Film i serije", Sky Cinema Family HD
-http://vapi.vaders.tv/play/2741.m3u8?token=eyJ1c2VybmFtZSI6ImxvbWJhcmRpbm8iLCJwYXNzd29yZCI6InZpbmNlIn0=
+#EXTINF:-1,PK: Geo News UK
+http://51.15.199.82:25461/live/euroiptv/euroiptv/264.ts
+#EXTINF:-1,PK: Bol TV
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1.ts
+#EXTINF:-1,PK: Neo News
+http://51.15.199.82:25461/live/euroiptv/euroiptv/53.ts
+#EXTINF:-1,PK: ARY Digital Pakistan
+http://51.15.199.82:25461/live/euroiptv/euroiptv/385.ts
+#EXTINF:-1,PK: ARY Digital USA
+http://51.15.199.82:25461/live/euroiptv/euroiptv/384.ts
+#EXTINF:-1,PK: Ary Musik
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1345.ts
+#EXTINF:-1,PK: TV One Global
+http://51.15.199.82:25461/live/euroiptv/euroiptv/60.ts
+#EXTINF:-1,PK: Abb Takk
+http://51.15.199.82:25461/live/euroiptv/euroiptv/69.ts
+#EXTINF:-1,PK: ARY QTV
+http://51.15.199.82:25461/live/euroiptv/euroiptv/763.ts
+#EXTINF:-1,PK: Awaz TV
+http://51.15.199.82:25461/live/euroiptv/euroiptv/63.ts
+#EXTINF:-1,PK: Capital TV Pakistan
+http://51.15.199.82:25461/live/euroiptv/euroiptv/83.ts
+#EXTINF:-1,PK: Health TV
+http://51.15.199.82:25461/live/euroiptv/euroiptv/65.ts
+#EXTINF:-1,PK: Desi Plus TV HD
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1019.ts
+#EXTINF:-1,PK: TV Canada One
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1118.ts
+#EXTINF:-1,PK: Roze News
+http://51.15.199.82:25461/live/euroiptv/euroiptv/82.ts
+#EXTINF:-1,PK: Sindh News
+http://51.15.199.82:25461/live/euroiptv/euroiptv/71.ts
+#EXTINF:-1,PK: Channel 5 Pakistan
+http://51.15.199.82:25461/live/euroiptv/euroiptv/91.ts
+#EXTINF:-1,PK: PTV Home
+http://51.15.199.82:25461/live/euroiptv/euroiptv/147.ts
+#EXTINF:-1,UK: BBC One (2)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/980.ts
+#EXTINF:-1,UK: ITV One (2)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/982.ts
+#EXTINF:-1,UK: Channel 5 (2)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/984.ts
+#EXTINF:-1,UK: BBC News HD
+http://51.15.199.82:25461/live/euroiptv/euroiptv/814.ts
+#EXTINF:-1,UK: CBS News
+http://51.15.199.82:25461/live/euroiptv/euroiptv/127.ts
+#EXTINF:-1,UK: RT News
+http://51.15.199.82:25461/live/euroiptv/euroiptv/122.ts
+#EXTINF:-1,UK: NDTV 24 x 7 English
+http://51.15.199.82:25461/live/euroiptv/euroiptv/141.ts
+#EXTINF:-1,UK: MTV Dance
+http://51.15.199.82:25461/live/euroiptv/euroiptv/945.ts
+#EXTINF:-1,UK: Sky One (2)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1015.ts
+#EXTINF:-1,UK: Fox
+http://51.15.199.82:25461/live/euroiptv/euroiptv/217.ts
+#EXTINF:-1,UK: Sky 2
+http://51.15.199.82:25461/live/euroiptv/euroiptv/220.ts
+#EXTINF:-1,UK: More 4
+http://51.15.199.82:25461/live/euroiptv/euroiptv/17.ts
+#EXTINF:-1,UK: Dmax
+http://51.15.199.82:25461/live/euroiptv/euroiptv/230.ts
+#EXTINF:-1,UK: 5 Star
+http://51.15.199.82:25461/live/euroiptv/euroiptv/18.ts
+#EXTINF:-1,VIP: Sky Sports Main Event 2
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1651.ts
+#EXTINF:-1,VIP: Sky Sports Premiere League 2
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1655.ts
+#EXTINF:-1,VIP:Sky Sports Premier League HD
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1286.ts
+#EXTINF:-1,VIP:Sky Sports Football HD
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1287.ts
+#EXTINF:-1,VIP: Sky Sports Action 2
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1653.ts
+#EXTINF:-1,VIP: Sky Sports Cricket HD
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1283.ts
+#EXTINF:-1,VIP:Sky Sports Open HD
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1285.ts
+#EXTINF:-1,VIP:Sky Sports Arena HD
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1288.ts
+#EXTINF:-1,VIP: BT Sports 2 Link 2
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1659.ts
+#EXTINF:-1,UK: BT Sports 2 (3)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1325.ts
+#EXTINF:-1,VIP: BT Sports 3 Link 2
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1660.ts
+#EXTINF:-1,UK: Euro Sport 2
+http://51.15.199.82:25461/live/euroiptv/euroiptv/233.ts
+#EXTINF:-1,VIP:BT Sports3 HD
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1292.ts
+#EXTINF:-1,UK: Sky Sports News (1)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/701.ts
+#EXTINF:-1,UK: Sky Sports News (2)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/702.ts
+#EXTINF:-1,UK: Sky Sports 1
+http://51.15.199.82:25461/live/euroiptv/euroiptv/167.ts
+#EXTINF:-1,UK: Sky Sports 1 (5)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/699.ts
+#EXTINF:-1,UK: Sky Sports 1 HD
+http://51.15.199.82:25461/live/euroiptv/euroiptv/424.ts
+#EXTINF:-1,UK: SKY SPORTS 2 New
+http://51.15.199.82:25461/live/euroiptv/euroiptv/943.ts
+#EXTINF:-1,UK: Sky Sports 3 (3)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/795.ts
+#EXTINF:-1,UK: Sky Sports 3 (4)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/796.ts
+#EXTINF:-1,UK: Sky Sports 3 HD
+http://51.15.199.82:25461/live/euroiptv/euroiptv/426.ts
+#EXTINF:-1,UK: Sky Sports 4 (2)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/799.ts
+#EXTINF:-1,UK: Sky Sports 4 (3)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/800.ts
+#EXTINF:-1,UK: At The Races
+http://51.15.199.82:25461/live/euroiptv/euroiptv/237.ts
+#EXTINF:-1,UK: Racing UK
+http://51.15.199.82:25461/live/euroiptv/euroiptv/243.ts
+#EXTINF:-1,UK: Box Nation
+http://51.15.199.82:25461/live/euroiptv/euroiptv/245.ts
+#EXTINF:-1,UK: Setanta
+http://51.15.199.82:25461/live/euroiptv/euroiptv/735.ts
+#EXTINF:-1,UK: Setanta Sports (3)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/736.ts
+#EXTINF:-1,UK: Ten 1
+http://51.15.199.82:25461/live/euroiptv/euroiptv/36.ts
+#EXTINF:-1,UK: Ten Sports
+http://51.15.199.82:25461/live/euroiptv/euroiptv/55.ts
+#EXTINF:-1,UK: Geo Super
+http://51.15.199.82:25461/live/euroiptv/euroiptv/272.ts
+#EXTINF:-1,UK: Geo Super (2)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/744.ts
+#EXTINF:-1,UK: Sony Six
+http://51.15.199.82:25461/live/euroiptv/euroiptv/405.ts
+#EXTINF:-1,UK: TRT Sports
+http://51.15.199.82:25461/live/euroiptv/euroiptv/970.ts
+#EXTINF:-1,UK: Bursa Sports
+http://51.15.199.82:25461/live/euroiptv/euroiptv/383.ts
+#EXTINF:-1,FR: SFR Sport 1 HD
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1153.ts
+#EXTINF:-1,FR: SFR Sport 2
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1152.ts
+#EXTINF:-1,FR: SFR Sports 1
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1327.ts
+#EXTINF:-1,UK: Sky Movies Action Adventure
+http://51.15.199.82:25461/live/euroiptv/euroiptv/294.ts
+#EXTINF:-1,UK: Sky Movies Disney (2)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/988.ts
+#EXTINF:-1,UK: SKy Movies Premiere
+http://51.15.199.82:25461/live/euroiptv/euroiptv/293.ts
+#EXTINF:-1,UK: Sky Movies Select (2)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/991.ts
+#EXTINF:-1,UK: Sky Movies Modern Greats
+http://51.15.199.82:25461/live/euroiptv/euroiptv/302.ts
+#EXTINF:-1,UK: Sky Movies Sci Fi (2)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/996.ts
+#EXTINF:-1,UK: TCM
+http://51.15.199.82:25461/live/euroiptv/euroiptv/308.ts
+#EXTINF:-1,UK: Cartoon Network (4)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/743.ts
+#EXTINF:-1,UK: Animal Planet
+http://51.15.199.82:25461/live/euroiptv/euroiptv/967.ts
+#EXTINF:-1,UK: Discovery Turbo
+http://51.15.199.82:25461/live/euroiptv/euroiptv/935.ts
+#EXTINF:-1,IN: B4U Music
+http://51.15.199.82:25461/live/euroiptv/euroiptv/249.ts
+#EXTINF:-1,IN: Star Life OK
+http://51.15.199.82:25461/live/euroiptv/euroiptv/45.ts
+#EXTINF:-1,IN: Star Plus
+http://51.15.199.82:25461/live/euroiptv/euroiptv/252.ts
+#EXTINF:-1,IN: Zee Action
+http://51.15.199.82:25461/live/euroiptv/euroiptv/37.ts
+#EXTINF:-1,IN: Zee Smile
+http://51.15.199.82:25461/live/euroiptv/euroiptv/688.ts
+#EXTINF:-1,IN: Zoom
+http://51.15.199.82:25461/live/euroiptv/euroiptv/44.ts
+#EXTINF:-1,IN: PTC Punjabi
+http://51.15.199.82:25461/live/euroiptv/euroiptv/262.ts
+#EXTINF:-1,IN: Zee News
+http://51.15.199.82:25461/live/euroiptv/euroiptv/761.ts
+#EXTINF:-1,IN: ET Now
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1002.ts
+#EXTINF:-1,Arabic: Al Hadath
+http://51.15.199.82:25461/live/euroiptv/euroiptv/144.ts
+#EXTINF:-1,Arabic: Al Rasheed
+http://51.15.199.82:25461/live/euroiptv/euroiptv/135.ts
+#EXTINF:-1,Arabic: Libya TV
+http://51.15.199.82:25461/live/euroiptv/euroiptv/136.ts
+#EXTINF:-1,Arabic: Rotana Classic
+http://51.15.199.82:25461/live/euroiptv/euroiptv/111.ts
+#EXTINF:-1,Arabic: Rotana Clip
+http://51.15.199.82:25461/live/euroiptv/euroiptv/108.ts
+#EXTINF:-1,Arabic: Suadi Arabian TV 2
+http://51.15.199.82:25461/live/euroiptv/euroiptv/115.ts
+#EXTINF:-1,UK: Fox Sports 1
+http://51.15.199.82:25461/live/euroiptv/euroiptv/726.ts
+#EXTINF:-1,TSN: TSN HD 4
+http://51.15.199.82:25461/live/euroiptv/euroiptv/380.ts
+#EXTINF:-1,: Sports HD 1
+http://51.15.199.82:25461/live/euroiptv/euroiptv/386.ts
+#EXTINF:-1,: Sports HD 2
+http://51.15.199.82:25461/live/euroiptv/euroiptv/387.ts
+#EXTINF:-1,: Sports HD 5
+http://51.15.199.82:25461/live/euroiptv/euroiptv/390.ts
+#EXTINF:-1,: Sports HD 9
+http://51.15.199.82:25461/live/euroiptv/euroiptv/394.ts
+#EXTINF:-1,: Sports HD 10
+http://51.15.199.82:25461/live/euroiptv/euroiptv/395.ts
+#EXTINF:-1,: Sports HD 11
+http://51.15.199.82:25461/live/euroiptv/euroiptv/396.ts
+#EXTINF:-1,: Sports HD 12
+http://51.15.199.82:25461/live/euroiptv/euroiptv/397.ts
+#EXTINF:-1,Albania: Super Sports 5 HD
+http://51.15.199.82:25461/live/euroiptv/euroiptv/420.ts
+#EXTINF:-1,Albania: Super Sports 6 HD
+http://51.15.199.82:25461/live/euroiptv/euroiptv/421.ts
+#EXTINF:-1,Albania: Super Sports 1 HD Kosovo
+http://51.15.199.82:25461/live/euroiptv/euroiptv/422.ts
+#EXTINF:-1,UK: Sky Net 1
+http://51.15.199.82:25461/live/euroiptv/euroiptv/598.ts
+#EXTINF:-1,UK: Sky Net 2
+http://51.15.199.82:25461/live/euroiptv/euroiptv/599.ts
+#EXTINF:-1,UK: SKy Net 4
+http://51.15.199.82:25461/live/euroiptv/euroiptv/601.ts
